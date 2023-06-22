@@ -25,7 +25,7 @@ To remove the connection (wire/gate) made at any node, you can use the Remove Co
 Example: m23 : this command will remove the connection that is at the node in column 2, row 3.
 
 The game in two levels:
-1. Level-1: the game ends when the player connects logic 1 to any of his nodes (the top 5 nodes in the last column) AND logic 0 to any of his opponent's nodes (the lower 5 nodes in the last column)
+1. Level-1: a player wins when he connects logic 1 to any of his nodes (the top 5 nodes in the last column) AND logic 0 to any of his opponent's nodes (the lower 5 nodes in the last column)
 2. Level-2: a player wins when he connects logic 1 to all his nodes AND logic 0 to all his opponent's nodes. 
 
 
