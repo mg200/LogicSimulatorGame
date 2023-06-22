@@ -1,4 +1,6 @@
 # LogicSimulatorGame
+Note: for a better understanding of the game requirements and how to play, read the full document.
+
 A boolean logic "simulator" game using x86 assembly.
 Two players can add/remove gates (AND,OR,NAND,NOR,XOR,XNOR) and wires to a board of a total 100 nodes. A player can only add gates to the next consecutive column(i.e. both inputs must be of 
 the same column and ouput of the consecutive column), and wires to the next two consecutive columns. There is no limit on the number of additions or removals to the board.
